@@ -110,5 +110,5 @@ class LicensePlateDetector():
         cap.release()
         out.release()
 
-detector = LicensePlateDetector(capture='video.mp4', output_name='video_with_tracker.avi')
+detector = LicensePlateDetector(capture='video/video.mp4', output_name='video/video_with_tracker.avi')
 detector()
