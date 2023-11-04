@@ -1,0 +1,6 @@
+numpy==1.26.1
+opencv-python==4.8.1
+ultralytics==8.0.206
+deep_sort_realtime==1.3.2
+easyOCR==1.7.1
+roboflow==1.1.9
